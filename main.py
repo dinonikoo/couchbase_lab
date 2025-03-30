@@ -9,8 +9,8 @@ import time
 
 
 endpoint = "couchbases://cb.n3hga1y2tjerhxgq.cloud.couchbase.com"
-username = "lab"
-password = "LabaLabaaa2398!"
+username = ""
+password = ""
 bucket_name = "AuditDB"
 scope_name = "default_scope"
 collection_name = "testing"
